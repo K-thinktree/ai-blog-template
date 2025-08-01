@@ -1,5 +1,8 @@
-
-baseURL = "/"
+baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "AI Blog Template"
-theme = "hugo-theme"
+title = "My AI Blog"
+theme = "ananke" 
+
+[params]
+  author = "주인님의 이름"
+  description = "AI가 만든 블로그입니다."
